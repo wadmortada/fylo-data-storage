@@ -88,3 +88,8 @@ body {
     background-color: white;
     border-radius: 2rem;
 }
+
+.sum-left {
+    display: flex;
+    justify-content: space-between;
+}
